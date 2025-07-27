@@ -5,7 +5,6 @@
 ![Agriculture](https://img.shields.io/badge/Agriculture-🌱-green)
 ![AI](https://img.shields.io/badge/AI-🤖-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 **An intelligent agricultural platform powered by AI agents to revolutionize farming**
 
