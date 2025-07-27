@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FarmersAI</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="chat">Chat</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_title">🌱 FarmersAI</string>
+    <string name="welcome_subtitle">AI-Powered Crop Disease Detection &amp; Farm Assistant</string>
+    <string name="accuracy_stats">95% Accuracy • &lt;2s Response Time • Multilingual Support</string>
+    
+    <!-- Diagnosis -->
+    <string name="diagnosis_title">AI Crop Diagnosis</string>
+    <string name="upload_image">Upload Plant Image</string>
+    <string name="select_language">Select Language</string>
+    <string name="diagnose_plant">Diagnose Plant</string>
+    <string name="analyzing">Analyzing...</string>
+    
+    <!-- Chat -->
+    <string name="farmer_gpt">FarmerGPT</string>
+    <string name="ai_assistant_subtitle">AI Farming Assistant</string>
+    <string name="ask_anything">Ask anything about farming...</string>
+    <string name="suggested_questions">Suggested Questions</string>
+    
+    <!-- Languages -->
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ (Kannada)</string>
+    <string name="hindi">हिंदी (Hindi)</string>
+    <string name="telugu">తెలుగు (Telugu)</string>
+    <string name="tamil">தமிழ் (Tamil)</string>
+    <string name="malayalam">മലയാളം (Malayalam)</string>
+</resources>

@@ -1,0 +1,66 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Main leaf shape -->
+    <path
+        android:pathData="M30,78 Q25,65 28,50 Q32,35 45,28 Q58,25 68,35 Q72,45 70,55 Q68,65 60,72 Q50,78 40,76 Q35,75 30,78 Z"
+        android:fillColor="#8BC34A" />
+    
+    <!-- Leaf vein lines -->
+    <path
+        android:pathData="M45,35 Q52,45 58,55"
+        android:strokeColor="#689F38"
+        android:strokeWidth="1.5" />
+    <path
+        android:pathData="M42,40 Q48,48 52,58"
+        android:strokeColor="#689F38"
+        android:strokeWidth="1" />
+    
+    <!-- Circuit board lines emanating from leaf -->
+    <!-- Top right circuit -->
+    <path
+        android:pathData="M68,35 L75,35 L75,30 L80,30"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <!-- Circuit connection point -->
+    <path
+        android:pathData="M 77,30 A 3,3 0 1,1 83,30 A 3,3 0 1,1 77,30"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- Right circuit -->
+    <path
+        android:pathData="M70,50 L78,50 L78,45 L85,45"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <!-- Circuit connection point -->
+    <path
+        android:pathData="M 82,45 A 3,3 0 1,1 88,45 A 3,3 0 1,1 82,45"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- Bottom right circuit -->
+    <path
+        android:pathData="M65,65 L73,65 L73,70 L80,70"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <!-- Circuit connection point -->
+    <path
+        android:pathData="M 77,70 A 3,3 0 1,1 83,70 A 3,3 0 1,1 77,70"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- Bottom circuit -->
+    <path
+        android:pathData="M50,75 L50,82 L55,82 L55,87"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <!-- Circuit connection point -->
+    <path
+        android:pathData="M 52,87 A 3,3 0 1,1 58,87 A 3,3 0 1,1 52,87"
+        android:fillColor="#FFFFFF" />
+</vector>
