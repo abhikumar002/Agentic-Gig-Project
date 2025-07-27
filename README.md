@@ -34,12 +34,6 @@ This repository contains three main components:
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Aftab2209/projectKishan)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://nextjs-app-424265826546.asia-south1.run.app)
 
-**Features:**
-- 🌱 Crop disease diagnosis
-- 📊 Farm analytics and insights
-- 🤖 AI-powered recommendations
-- 📅 Task management for farmers
-- 🛒 Agricultural marketplace integration
 
 ---
 
@@ -49,13 +43,6 @@ This repository contains three main components:
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/sachin6174/FarmersAI)
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?logo=android)](https://drive.google.com/drive/folders/1_FJi72zzwxGuzI0PfBYhssDP3-sfwriD)
 
-**Features:**
-- 📸 Real-time crop health scanning
-- 🌤️ Weather forecasting
-- 📱 Offline functionality
-- 🔔 Smart notifications
-- 📍 Location-based recommendations
-
 ---
 
 ### 🤖 AI Agents Server
@@ -64,12 +51,6 @@ This repository contains three main components:
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Aftab2209/agents.git)
 [![Live API](https://img.shields.io/badge/Live-API-orange?logo=fastapi)](https://nextjs-app-424265826546.asia-south1.run.app)
 
-**Capabilities:**
-- 🧠 Machine learning models for crop analysis
-- 🌾 Agricultural data processing
-- 🔮 Predictive analytics
-- 🤝 Multi-agent coordination
-- 📈 Real-time decision support
 
 ## 🛠️ Tech Stack
 
@@ -117,45 +98,3 @@ This repository contains three main components:
    cd FarmersAI
    ./gradlew assembleDebug
    ```
-
-## 📸 Screenshots
-
-*Coming soon - Screenshots of the web platform and mobile application*
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape this project
-- Special recognition to the agricultural community for their valuable feedback
-- Gratitude to open-source libraries that made this project possible
-
-## 📞 Contact
-
-For questions, suggestions, or collaborations:
-
-- 📧 Email: project.kisan@example.com
-- 💬 Discord: [Join our community](https://discord.gg/projectkisan)
-- 🐦 Twitter: [@ProjectKisan](https://twitter.com/projectkisan)
-
----
-
-<div align="center">
-
-**Made with ❤️ for farmers around the world 🌍**
-
-[![Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow)](https://github.com/abhikumar002/Agentic-Gig-Project)
-
-</div>
