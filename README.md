@@ -97,3 +97,4 @@ This repository contains three main components:
    cd FarmersAI
    ./gradlew assembleDebug
    ```
+# Google-Agentic-Ai-Hackathon
